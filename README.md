@@ -1,6 +1,6 @@
 # Terraform-Training
 
-# Demo overview
+# SUMMARY
 Demo Directory | Description
 ------------ | -------------
 first-steps | First steps
